@@ -1,0 +1,27 @@
+.content {
+  padding: 10px;
+}
+
+.badge {
+  top: 10px;
+  right: 20px;
+  font-size: 17px;
+}
+.regionsMap {
+  max-width: 50%;
+  height: auto;
+}
+.poems-container {
+  max-width: 30em;
+  margin: auto;
+}
+
+.poems-container > div {
+  border-bottom: solid 1px grey;
+  padding-bottom: 1em;
+  min-width: 20em;
+}
+
+.poems-container > div > button {
+  min-width: 4em;
+}
